@@ -1,1 +1,1 @@
-# recipe-generate-gemini
+# recipe-generate
